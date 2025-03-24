@@ -1,2 +1,2 @@
 # yapay-zeka
-yazılım teknojileri ve yapay zeka gelisimi hakkında kodlama
+Yazılım Teknojileri ve yapay zeka gelisimi hakkında kodlama
